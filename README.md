@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff1e1e&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o;Estudante+de+ADS+na+FIAP;Apaixonada+por+tecnologia+e+inova%C3%A7%C3%A3o;Em+busca+de+uma+oportunidade+de+est%C3%A1gio" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff1e1e&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o;Estudante+de+ADS+na+FIAP;Apaixonada+por+tecnologia+e+inova%C3%A7%C3%A3o; />
 </p>
 
 ---

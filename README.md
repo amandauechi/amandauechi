@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=900&color=FF1E1E&center=true&vCenter=true&width=750&lines=Amanda+Uechi;Desenvolvedora+em+Forma%C3%A7%C3%A3o;Em+busca+de+est%C3%A1gio+em+TI" />
+  <img src="https://readme-typing-svg.herokuapp.com?<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=900&color=FF1E1E&center=true&vCenter=true&width=650&lines=Amanda+Uechi;Desenvolvedora+em+Forma%C3%A7%C3%A3o;Tecnologia+%26+Desenvolvimento" />
 </h1>
 
 <p align="center">

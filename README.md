@@ -1,4 +1,3 @@
-<h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff1e1e,100:6b7280&height=200&section=header&text=Amanda%20Uechi&fontColor=ffffff&fontSize=42&animation=fadeIn" />

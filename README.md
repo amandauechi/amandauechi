@@ -1,22 +1,3 @@
-GitHub **quebra o HTML quando mistura com bloco de código** → por isso aparece `<p align="center">` na tela.
-
----
-
-# ✅ SOLUÇÃO (SEM BUG DEFINITIVA)
-
-👉 NÃO usa mais:
-- ```text
-- ``` (nenhum bloco de código)
-
-👉 vamos deixar tudo **normal + formatado com markdown simples**
-
----
-
-# 💎 VERSÃO CORRIGIDA (SEM ERRO)
-
-Copia isso e cola direto:
-
-```md
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2600&pause=900&color=FF1E1E&center=true&vCenter=true&width=650&lines=Amanda+Uechi;Desenvolvedora+em+Forma%C3%A7%C3%A3o;Tecnologia+%26+Desenvolvimento" />
 </h1>
@@ -89,5 +70,5 @@ interessada em desenvolvimento, tecnologia e evolução constante
 </p>
 
 <p align="center">
-  feito com ❤️ por amanda
+  feito com ❤️
 </p>

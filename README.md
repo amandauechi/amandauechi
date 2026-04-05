@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <strong>Transformando aprendizado em projetos reais 🚀</strong>
+  <strong>aprendendo dia após dia</strong>
 </p>
 
 ---
@@ -80,5 +80,5 @@ Projeto focado em modelagem de banco de dados relacional, criação de estrutura
 ---
 
 <p align="center">
-  Feito com ❤️ por <strong>Amanda Uechi</strong>
+  <strong> Feito com ❤️ </strong>
 </p>

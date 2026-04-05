@@ -1,3 +1,5 @@
+<h1 align="center">Hello, World! 👋</h1>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff1e1e,100:6b7280&height=200&section=header&text=Amanda%20Uechi&fontColor=ffffff&fontSize=42&animation=fadeIn" />
 </p>
@@ -56,11 +58,6 @@ Projeto focado em modelagem de banco de dados relacional, criação de estrutura
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandauechi&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff1e1e&icon_color=ff1e1e&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandauechi&layout=compact&theme=tokyonight&hide_border=true&title_color=ff1e1e&text_color=ffffff&bg_color=0d1117" />
-</p>
-
-<p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=amandauechi&theme=tokyonight&hide_border=true&ring=ff1e1e&fire=ff1e1e&currStreakLabel=ff1e1e&background=0d1117" />
 </p>
 
@@ -83,5 +80,5 @@ Projeto focado em modelagem de banco de dados relacional, criação de estrutura
 ---
 
 <p align="center">
- <strong> Feito com ❤️ </strong>
+  Feito com ❤️ por <strong>Amanda Uechi</strong>
 </p>

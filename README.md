@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <strong>**APRENDENDO DIA APÓS DIA**</strong>
+  <strong>APRENDENDO DIA APÓS DIA</strong>
 </p>
 
 ---

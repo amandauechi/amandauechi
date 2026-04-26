@@ -32,7 +32,7 @@
   <p align="justify">
     <img src="./assets/flor.png" width="20"/> <em><b> Estudante de Analise de Desenvolvimento de Sistemas na FIAP </b></em> <br/>
     <img src="./assets/flor.png" width="20"/> <em><b>Buscando evoluir em design, usabilidade e qualidade de código </b></em><br/>
-    <img src="./assets/flor.png" width="20"/> <em><b> Em busca de uma oportunidade de **estágio** em TI </b></em><br/>
+    <img src="./assets/flor.png" width="20"/> <em><b> Em busca de uma oportunidade de Estágio em TI </b></em><br/>
   </p>
 </div>
 

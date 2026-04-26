@@ -23,7 +23,7 @@
 <div align="center">
   <strong>Quem sou eu?</strong>
 
-  <div style="height: 1px; background-color: #30363d; border: none; margin: 10px 0;"></div>
+  <hr style="height:1px; border:none; color:#30363d; background-color:#30363d;">
 
 <!-- gif lateral decorativo -->
   <img src="./assets/bichano2.gif" width="260" height="240" align="right" style="margin-left: 20px;" />
@@ -45,7 +45,7 @@
 <div align="center">
   <strong>Tecnologias</strong>
 
-  <div style="height: 1px; background-color: #30363d; border: none; margin: 10px 0;"></div>
+  <hr style="height:1px; border:none; color:#30363d; background-color:#30363d;">
 
 <!-- badges das tecnologias -->
   <p align="center">
@@ -63,7 +63,7 @@
 <div align="center">
   <strong>Estatísticas</strong>
 
-  <div style="height: 1px; background-color: #30363d; border: none; margin: 10px 0;"></div>
+  <hr style="height:1px; border:none; color:#30363d; background-color:#30363d;">
 
 <!-- gráfico de atividade -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandauechi&bg_color=00000000&color=ffffff&line=0070ff&point=ffffff&area=true&hide_border=false&border_color=0070ff&radius=16" width="100%"/>

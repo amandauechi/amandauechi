@@ -5,17 +5,13 @@
 </p>
 
 <!-- gif decorativo principal -->
-<img src="./assets/bichano.gif" width="790" height="230"/>
+<img src="./assets/bichano.gif" width="100%" height="365" style="object-fit: cover;"/>
 
 <!-- redes sociais / links -->
 <p align="center">
 <a href="https://www.linkedin.com/in/amanda-uechi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-</p>
 
 <br><br>
 

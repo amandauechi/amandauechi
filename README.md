@@ -26,7 +26,7 @@
 
 <!-- texto principal -->
   <p>
-    Sou estudante de Análise e Desenvolvimento de Sistemas na <em><b>FIAP </b></em> e eu gosto muito de me desafiar e transformar ideias en algo real. 
+    Sou estudante de Análise e Desenvolvimento de Sistemas na <em><b>FIAP </b></em> e eu gosto muito de me desafiar e transformar ideias em algo real. 
 
 <!-- lista de informações pessoais -->
   <p align="justify">

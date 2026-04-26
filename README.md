@@ -1,85 +1,70 @@
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff1e1e,100:6b7280&height=200&section=header&text=Amanda%20Uechi&fontColor=ffffff&fontSize=42&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff1e1e&size=24&center=true&vCenter=true&width=820&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o;Estudante+de+ADS+na+FIAP;Apaixonada+por+tecnologia+e+inova%C3%A7%C3%A3o;"
-    />
-</p>
-
----
-
-<p align="center">
-  <strong>APRENDENDO DIA APÓS DIA</strong>
-</p>
-
----
-
-## 👩‍💻 Sobre mim
-
-💻 Estudante de **Análise e Desenvolvimento de Sistemas (FIAP)**  
-🚀 Focada em **tecnologia, desenvolvimento e aprendizado contínuo**  
-📚 Construindo projetos para evoluir cada vez mais na área  
-🎯 Em busca de uma **oportunidade de estágio em TI**
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,git&theme=dark" />
-</p>
-
----
-
-## 🚀 Projetos em destaque
-
-### 🎨 Front-End Design Engineering
-Projeto voltado ao desenvolvimento de interfaces modernas, explorando design, organização visual, responsividade e experiência do usuário.
-
-### 🤖 Artificial Intelligence Chatbot
-Projeto com foco em chatbot e conceitos de inteligência artificial, trabalhando automação de respostas e interação com o usuário.
-
-### ☕ Domain-Driven Design using Java
-Projeto baseado em conceitos de DDD com Java, priorizando organização do código, domínio da aplicação e boas práticas de desenvolvimento.
-
-### 🐍 Computational Thinking using Python
-Atividades e exercícios voltados para lógica de programação, resolução de problemas e desenvolvimento do pensamento computacional com Python.
-
-### 📈 Software Engineering and Business Model
-Estudo da conexão entre engenharia de software e visão de negócio, com foco em criar soluções alinhadas às necessidades reais do mercado.
-
-### 🗄️ Building Relational Database
-Projeto focado em modelagem de banco de dados relacional, criação de estruturas, tabelas e organização de informações.
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=amandauechi&theme=tokyonight&hide_border=true&ring=ff1e1e&fire=ff1e1e&currStreakLabel=ff1e1e&background=0d1117" />
-</p>
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://github.com/amandauechi">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/amanda-uechi-551623374/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff1e1e?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:amanda.uechi@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-6b7280?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=14&pause=1000&color=0070ff&center=true&vCenter=true&width=435&lines=oii,+vem+me+conhecer+um+pouquinho%3F+:)+%E2%9C%A8" alt="Digitando SVG" />
   </a>
 </p>
 
----
+<!-- gif decorativo principal -->
+<img src="./assets/bichano.gif" width="790" height="230"/>
 
+<!-- redes sociais / links -->
 <p align="center">
-  <strong> Feito com ❤️ </strong>
+<a href="https://www.linkedin.com/in/amanda-uechi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
 </p>
+
+<br><br>
+
+<!-- seção: sobre mim -->
+<div align="center">
+  <strong>Quem sou eu?</strong>
+
+  <hr>
+
+<!-- gif lateral decorativo -->
+  <img src="./assets/bichano2.gif" width="260" height="240" align="right" style="margin-left: 20px;" />
+
+<!-- texto principal -->
+  <p>
+    Sou estudante de Análise e Desenvolvimento de Sistemas na <em><b>FIAP </b></em> e eu gosto muito de me desafiar e transformar ideias en algo real. 
+
+<!-- lista de informações pessoais -->
+  <p align="justify">
+    <img src="./assets/flor.png" width="20"/> <em><b> Estudante de Analise de Desenvolvimento de Sistemas na FIAP </b></em> <br/>
+    <img src="./assets/flor.png" width="20"/> <em><b>Buscando evoluir em design, usabilidade e qualidade de código </b></em><br/>
+    <img src="./assets/flor.png" width="20"/> <em><b> Em busca de uma oportunidade de **estágio** em TI </b></em><br/>
+  </p>
+</div>
+
+<br><br>
+<!-- seção: tecnologias -->
+<div align="center">
+  <strong>Tecnologias</strong>
+
+  <hr>
+
+<!-- badges das tecnologias -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  </p>
+</div>
+
+<br><br>
+
+<!-- seção: estatísticas do github -->
+<div align="center">
+  <strong>Estatísticas</strong>
+
+  <hr>
+
+<!-- gráfico de atividade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandauechi&bg_color=00000000&color=ffffff&line=0070ff&point=ffffff&area=true&hide_border=false&border_color=0070ff&radius=16" width="100%"/>
+</div>

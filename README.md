@@ -1,5 +1,4 @@
-<!-- ===== PROFILE HERO BANNER ===== -->
-<!-- ===== PROFILE HERO BANNER ===== -->
+
 
 <div align="center">
   <img
@@ -12,9 +11,6 @@
     alt="Amanda's GitHub Streak"
   />
 </div>
-
-<!-- ===== STATS + TOP LANGUAGES ===== -->
-
 <div align="center"><img
     width="50%"
     height="170"
@@ -29,10 +25,7 @@
     alt="Amanda's Top Languages"
   /></div>
 
-
-<!-- ===== SOCIAL BADGES ===== -->
 <br>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/amanda-uechi-551623374/"><img
     src="https://img.shields.io/badge/LinkedIn-251E38?style=for-the-badge&logo=linkedin&logoColor=C6A5FF"
@@ -43,4 +36,3 @@
   /></a>
 </div>
 
-<!-- ===== END SOCIAL BADGES ===== -->

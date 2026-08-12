@@ -3,7 +3,7 @@
 <div align="center">
   <img
     width="100%"
-    src="./profile.svg"
+    src=".Card.png"
     alt="Amanda Uechi - Full Stack Developer"
   />
 
